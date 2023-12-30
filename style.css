@@ -10,7 +10,6 @@ body {
 .nav {
     background-color: black;
     color: white;
-    max-width: 100%;
     padding: 10px 20px 10px 20px;
     display: flex;
     justify-content: space-between;
