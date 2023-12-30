@@ -86,7 +86,7 @@ img{
 
 @media (min-width:319px) and (max-width: 769px) {
     body {
-        background-size: 60%;
+        background-size: 80%;
     }
     
     .tab {
