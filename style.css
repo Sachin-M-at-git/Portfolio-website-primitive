@@ -99,6 +99,7 @@ img{
     
     .homeC {
         flex-direction: column;
+       margin-bottom: 50px;
     }
 }
 
@@ -126,5 +127,6 @@ img{
     
     .homeC {
         flex-direction: column;
+        margin-bottom: 50px;
     }
 }
