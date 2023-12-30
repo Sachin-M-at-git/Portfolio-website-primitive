@@ -117,7 +117,7 @@ img{
 
 @media (min-width:770px) and (max-width: 1075px) {
     .nav{
-        width: fit-content;
+        width: 100%;
     }
 }
 
