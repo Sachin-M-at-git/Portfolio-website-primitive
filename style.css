@@ -32,7 +32,7 @@ body {
     font-size: 50px;
     margin: 0;
     font-weight: bolder;
-    font-family: cursive;
+    font-family: 'Pridi', serif;
     padding: inherit;
     min-width: 270px;
 }
@@ -68,9 +68,13 @@ img{
 
 #homeM {
     line-height: 1.5;
-    font-size: 50px;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 60px;
+    font-family: 'Alice', serif;
     font-weight: bolder;
+}
+
+#m2{
+    font-size: 30px;
 }
 
 #name{
@@ -104,9 +108,13 @@ img{
         flex-direction: column;
     }
 
-    #homeM
-    {
+    #homeM {
+        font-size: 50px;
         padding-left: 10px;
+    }
+
+    #m2{
+        font-size: 25px;
     }
 
     img {
