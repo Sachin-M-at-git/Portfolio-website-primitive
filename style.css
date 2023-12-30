@@ -124,9 +124,8 @@ img{
 }
 
 @media (min-width:770px) and (max-width: 1075px) {
-    .nav{
-        padding: 10px;
-        min-width: 100%;
+    body{
+        width: 100%;
     }
 }
 
