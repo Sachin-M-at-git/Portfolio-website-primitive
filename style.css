@@ -27,6 +27,7 @@ body {
 
 #logo {
     border: 5px dashed white;
+    border-radius: 10px;
     text-align: center;
     font-size: 50px;
     margin: 0;
@@ -101,6 +102,16 @@ img{
     
     .homeC {
         flex-direction: column;
+    }
+
+    #homeM
+    {
+        padding-left: 10px;
+    }
+
+    img {
+        margin: 0;
+        height: 300px;
     }
 }
 
