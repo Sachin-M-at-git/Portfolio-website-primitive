@@ -54,7 +54,7 @@ body {
     flex-basis: 100%;
 
     background-image: url(./assets/back.png);
-    background-repeat: repeat-y;
+    background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
 }
