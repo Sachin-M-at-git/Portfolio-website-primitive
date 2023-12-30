@@ -9,7 +9,7 @@ body {
 
 .nav {
     background-color: black;
-    color: aliceblue;
+    color: white;
     padding: 10px 20px 10px 20px;
     display: flex;
     justify-content: space-between;
@@ -76,12 +76,12 @@ img{
 }
 
 @media (min-width:319px) and (max-width: 480px) {
-    body{
+    body {
         background-image: none;
         background-color: aliceblue;
         margin: 0;
     }
-
+    
     .tab {
         flex-direction: column;
         gap: 10px;
@@ -89,25 +89,26 @@ img{
         align-items: center;
         min-height: 100px;
     }
-    .nav{
+    
+    .nav {
         flex-direction: column;
         align-items: center;
         margin: 0;
         width: 100%;
     }
-
-    .homeC{
+    
+    .homeC {
         flex-direction: column;
     }
 }
 
 @media (min-width:481px) and (max-width: 750px) {
-    body{
+    body {
         background-image: none;
         background-color: aliceblue;
         margin: 0;
     }
-
+    
     .tab {
         flex-direction: column;
         gap: 10px;
@@ -115,15 +116,15 @@ img{
         align-items: center;
         min-height: 100px;
     }
-    .nav{
+    
+    .nav {
         flex-direction: column;
         align-items: center;
         margin: 0;
+        width: 100%;
     }
-
-    .homeC{
+    
+    .homeC {
         flex-direction: column;
-        justify-content: center;
-        margin-bottom: 50px;
     }
 }
